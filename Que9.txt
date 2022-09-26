@@ -1,0 +1,10 @@
+9. A box contains 2 black, 3 orange and 4 pink ribbons. If two ribbons are drawn at
+random. What is the probability that both are orange?
+1) 5/12
+2) 1/13
+3) 1/14
+4) 1/12
+5) 1/24
+
+
+ans)
