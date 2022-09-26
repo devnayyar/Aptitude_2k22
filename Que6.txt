@@ -1,0 +1,10 @@
+6. 12 men can complete any work in 36 days. 18 women can complete the same piece of work in 60 days. 8 men and 20 women work together for 20 days. If only the
+women were to complete the remaining work in 4 days, then how many women
+would be required?
+1) 60
+2) 74
+3) 68
+4) 75
+5) 70
+
+ans)
