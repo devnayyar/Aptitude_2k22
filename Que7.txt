@@ -1,0 +1,11 @@
+7. Out of 5 women and 4 men, a committee of three members is to be formed in
+such a way that at least one member is woman. In how many different ways can this
+be done?
+1) 60
+2) 100
+3) 120
+4) 90
+5) 80
+
+
+Ans)
