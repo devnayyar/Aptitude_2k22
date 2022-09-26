@@ -1,0 +1,8 @@
+8. Excluding the stoppages, the speed of a bus is 64 km/hr and including the
+stoppages the speed of the bus is 48km/hr. For how many minutes does the bus
+stop per hour?
+1) 15 min
+2) 10 min
+3) 12 min
+4) 20 min
+5) 18 min
